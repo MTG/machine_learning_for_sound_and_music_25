@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains materials for the "Machine Learning for Sound and Music" course. The course introduces key concepts of machine learning applied to audio and music processing. The materials include lecture notebooks, practical exercises, and examples to help students learn and implement machine learning techniques effectively.
+This repository contains materials for the second half of the "Machine Learning for Sound and Music" course. The course introduces key concepts of machine learning applied to audio and music processing. The materials include lecture notebooks, practical exercises, and examples to help students learn and implement machine learning techniques effectively.
 
 ## Repository Structure
 
@@ -45,11 +45,7 @@ This repository contains materials for the "Machine Learning for Sound and Music
 
 ### Lecture Index
 
-- **Lecture 5: Supervised Learning with CNNs**
-  - 05_01_Review_of_CNNs: Review of CNNs, examples of music multi-label tasks, and training a small autotagging model.
-  - 05_02_Multiclass_Classification: Understanding softmax vs sigmoid activation and cross-entropy vs binary cross-entropy loss.
-  - 05_03_Evaluation_Metrics: Evaluation metrics such as accuracy, ROC-AUC, and PR-AUC.
-
+- **Lecture 5: Supervised Learning with CNNs**. Code for training small MLP and CNN models for a multi-class task.
 - **Lecture 6: Self-Supervised Learning I: Autoencoders**
 - **Lecture 7: Self-Supervised Representation Learning II: Metric Learning**
 - **Lecture 8: Transformers and the Attention Mechanism**
